@@ -1,2 +1,2 @@
 # digisign-P13
-static american sign language using ML 
+This project leverages MediaPipe and Random forest to perform static american sign language to English translation
